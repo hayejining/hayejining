@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**hayejining/hayejining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 Dankook University Department of Industrial Engineering student
 - 🔭 I’m currently working in industrial engineering laboratory.
