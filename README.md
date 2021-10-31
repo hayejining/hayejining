@@ -2,7 +2,7 @@
 
 
 - 🌱 Dankook University Department of Industrial Engineering student
-- 🔭 I’m currently working in industrial engineering laboratory.
+- 🔭 I’m currently working in Computer application laboratory.
 - 🤔 I’m currently learning Big data analysis and Machine learning.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
